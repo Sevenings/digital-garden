@@ -3,7 +3,7 @@
 ---
 
 # Pesquisa GitLab
-08/12/2025
+10/12/2025
 
 Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas básicas sobre: o que é essa plataforma, quais suas aplicações, quais são seus casos de uso e quais suas semelhanças e diferenças com o GitHub, além de exemplificar como utilizá-la para salvar um repositório e como criar uma pipeline de CI/CD.
 
