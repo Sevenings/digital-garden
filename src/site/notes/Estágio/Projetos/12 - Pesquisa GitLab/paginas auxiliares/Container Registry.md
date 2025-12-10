@@ -45,4 +45,4 @@ registry.gitlab.com         1.0.0
 
 
 
-**Veja:** [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Registro de Containers buffando o deployment\|Pesquisa Gitlab#Registro de Containers buffando o deployment]]
+**Veja:** [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Registro de Containers buffando o deployment\|Registro de Containers buffando o deployment]]
