@@ -9,13 +9,13 @@ Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas bás
 
 A pesquisa contém alguns hyperlinks para conceitos primitivos que ainda não tinha conhecimento sobre, conceitos como o [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Ciclo de Vida DevOps\|Ciclo de Vida DevOps]] e [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|Artifacts]].
 ### Conteúdos
-- [Informações gerais sobre o GitLab](#informacoes-gerais-sobre-o-gitlab)
-    - [[#O que é o Gitlab?]]
-    - [[#Qual a diferença para o Github?]]
-    - [[#Especialidades do GitLab]]
-    - [[#Especialidades do GitHub]]
+- [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Informações gerais sobre o GitLab\|Informações gerais sobre o GitLab]]
+    - [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#O que é o GitLab?\|O que é o GitLab]]
+    - [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Qual a diferença para o Github?\|Qual a diferença para o Github?]]
+    - [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Especialidades do GitLab\|Especialidades do GitLab]]
+    - [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Especialidades do GitHub\|Especialidades do GitHub]]
 - [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Usando o GitLab\|Minha Experiência com o GitLab]]
-- [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Conclusão pessoal Vale a pena?\|Pesquisa Gitlab#Conclusão pessoal Vale a pena?]]
+- [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Conclusão pessoal Vale a pena?\|Conclusão pessoal: Vale a pena?]]
 ## Informações gerais sobre o GitLab
 ### O que é o GitLab?
 Gitlab é uma plataforma semelhante ao GitHub, onde pode-se hospedar o código de um repositório Git, mas focado em ser uma ferramenta para operações de DevOps, com suporte a pipelines de CI/CD.
