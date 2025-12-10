@@ -30,7 +30,7 @@ Ambos são gerenciadores de repositórios Git, e oferecem controle de versão, m
 - **Gerenciamento Abrangente do [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Ciclo de Vida DevOps\|Ciclo de Vida DevOps]]:**
     - **Segurança Integrada (DevSecOps)** — Varredura de segurança de aplicações estática e dinâmica ([[SAST/DAAST\|SAST/DAAST]]), gerenciamento de vulnerabilidades e digitalização de infraestrutura como código (IaC) integrados, sem depender de aplicativos de marketplace externos.
     - **[[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Container Registry\|Registro de containers (Container Registry)]] Integrado** — Registro de contêineres nativo embutido na plataforma 
-- **Organizar os repositórios em Grupos e Subgrupos** — O GitLab permite organizar os repositórios em Grupos e depois em Subgrupos, criando uma hierarquia de projetos mais granular e organizada. No Github, a organização é mais plana, focando em repositórios pertencentes a usuários e organizações.
+- **Organizar os repositórios em Grupos e Subgrupos** — O GitLab permite organizar os repositórios em Grupos e depois em Subgrupos, criando uma hierarquia de projetos mais granular e organizada. No GitHub, a organização é mais plana, focando em repositórios pertencentes a usuários e organizações.
 - **Controle de Implementação e [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Sinalizadores de Funcionalidade\|Sinalizadores de Funcionalidade]]** —
 ### Especialidades do GitHub
 - **Hospedagem colaborativa de código** — O GitHub se destaca no controle de versão e colaboração, com recursos como pull requests, revisões de código e proteção de branches para fluxos de trabalho em equipe.
