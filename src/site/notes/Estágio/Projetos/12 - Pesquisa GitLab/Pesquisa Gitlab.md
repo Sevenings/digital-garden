@@ -5,7 +5,7 @@
 # Pesquisa GitLab
 08/12/2025
 
-Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas básicas explicando o que é essa plataforma, suas aplicações, casos de uso, semelhanças e diferenças com o GitHub, exemplificando como utilizá-la para salvar um repositório e como criar uma pipeline de CI/CD.
+Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas básicas sobre: o que é essa plataforma, quais suas aplicações, quais são seus casos de uso e quais suas semelhanças e diferenças com o GitHub, além de exemplificar como utilizá-la para salvar um repositório e como criar uma pipeline de CI/CD.
 
 A pesquisa contém alguns hyperlinks para conceitos primitivos que ainda não tinha conhecimento sobre, conceitos como o [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Ciclo de Vida DevOps\|Ciclo de Vida DevOps]] e [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|Artifacts]].
 ### Conteúdos
