@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/estagio/projetos/12-pesquisa-git-lab/pesquisa-gitlab/","tags":["gardenEntry"]}
 ---
 
-
+# Pesquisa GitLab
 08/12/2025
 
 Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas básicas explicando o que é essa plataforma, suas aplicações, casos de uso, semelhanças e diferenças com o GitHub, exemplificando como utilizá-la para salvar um repositório e como criar uma pipeline de CI/CD.
