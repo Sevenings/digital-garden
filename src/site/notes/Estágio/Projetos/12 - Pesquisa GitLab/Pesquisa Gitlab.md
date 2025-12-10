@@ -9,7 +9,7 @@ Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas bás
 
 A pesquisa contém alguns hyperlinks para conceitos primitivos que ainda não tinha conhecimento sobre, conceitos como o [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Ciclo de Vida DevOps\|Ciclo de Vida DevOps]] e [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|Artifacts]].
 ### Conteúdos
-- [[#Definições]]
+- [Informações gerais sobre o GitLab](#informacoes-gerais-sobre-o-gitlab)
     - [[#O que é o Gitlab?]]
     - [[#Qual a diferença para o Github?]]
     - [[#Especialidades do GitLab]]
