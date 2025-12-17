@@ -103,7 +103,7 @@ Perguntei para a IA do google o que ele faz, e ela me confirmou:
 > 
 > Isso permite que você mantenha o código-fonte do seu documento (os arquivos `.tex`) no repositório do GitLab e, a cada _push_ ou alteração, o GitLab automaticamente gere a versão PDF atualizada para você.
 
-Fiquei surpreso, não achei que seria tão útil. É um ótimo caso de estudo. Fui pesquisar também [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|O que é um artifact?]] para ter certeza do que se trata, e basicamente ele é um arquivo que é baixável pelo GitLab, um subproduto do código fonte. Ele resolve um problema que tive antigamente com o LaTeX mesmo ao incluir o PDF no GitHub. O Git é feito para lidar com arquivos de Texto. Se tentar versionar arquivos binários que ficam se atualizando sempre, toda hora dá problema de **merge** ao fazer pull. 
+Fiquei surpreso, não achei que seria tão útil. É um ótimo caso de estudo. Fui pesquisar também [[O que é um artifact?\|O que é um artifact?]] para ter certeza do que se trata, e basicamente ele é um arquivo que é baixável pelo GitLab, um subproduto do código fonte. Ele resolve um problema que tive antigamente com o LaTeX mesmo ao incluir o PDF no GitHub. O Git é feito para lidar com arquivos de Texto. Se tentar versionar arquivos binários que ficam se atualizando sempre, toda hora dá problema de **merge** ao fazer pull. 
 
 Realmente, não só para o Latex, mas para qualquer linguagem compilada (ex: aplicativos mobile, programas em C/C++, talvez até treino de modelos de IA) isso é perfeito. É uma forma de automatizar a _release_ do projeto. Deixa de ser necessário para o usuário ter que:
 1. Clonar o repositório localmente

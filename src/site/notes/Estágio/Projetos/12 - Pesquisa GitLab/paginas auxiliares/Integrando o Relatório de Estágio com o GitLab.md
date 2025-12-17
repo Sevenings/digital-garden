@@ -64,7 +64,7 @@ Esse é bem simples. Ele tem uma sessão de variáveis (para colocar as variáve
 
 Na seção de build, há o **script** que corresponde ao comando que é executado para **compilar** o documento. 
 
-Por fim, ele tem a seção **artifacts** que está indicando que todos os arquivos terminados em **.pdf** devem ser expostos como um [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|artefato]].
+Por fim, ele tem a seção **artifacts** que está indicando que todos os arquivos terminados em **.pdf** devem ser expostos como um [[O que é um artifact?\|artefato]].
 
 Agora, veja que era apenas um template, e como sempre, ele não funcionou exatamente para meu caso de uso. Felizmente já havia me acontecido antes, e acontece que o compilador que ele usou, não é compatível com a fonte que eu usei no documento, sendo necessário trocar. 
 

@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/estagio/projetos/12-pesquisa-git-lab/pesquisa-gitlab/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/estagio/projetos/12-pesquisa-git-lab/pesquisa-gitlab/"}
 ---
 
+#pesquisa 
 # Pesquisa GitLab
+---
 10/12/2025
 
 Esta é a pesquisa básica que fiz acerca do GitLab. Ela responde perguntas básicas sobre: o que é essa plataforma, quais suas aplicações, quais são seus casos de uso e quais suas semelhanças e diferenças com o GitHub, além de exemplificar como utilizá-la para salvar um repositório e como criar uma pipeline de CI/CD.
 
 > [!INFO]
-A pesquisa contém alguns hyperlinks para conceitos primitivos que ainda não tinha conhecimento sobre, conceitos como o [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Ciclo de Vida DevOps\|Ciclo de Vida DevOps]] e [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|Artifacts]].
+A pesquisa contém alguns hyperlinks para conceitos primitivos que ainda não tinha conhecimento sobre, conceitos como o [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/Ciclo de Vida DevOps\|Ciclo de Vida DevOps]] e [[O que é um artifact?\|Artifacts]].
 ### Conteúdos
 - [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#Informações gerais sobre o GitLab\|Informações gerais sobre o GitLab]]
     - [[Estágio/Projetos/12 - Pesquisa GitLab/Pesquisa Gitlab#O que é o GitLab?\|O que é o GitLab]]
@@ -44,7 +46,7 @@ No geral, percebi que o GitLab é uma plataforma profissional e completa para o 
 ### Casos de uso
 Fiz a pesquisa de maneira breve, e sei que ainda há muitas outras funcionalidades a serem exploradas, mas pelo pouco que vi, percebo que tem uns recursos dele que realmente valem a pena serem utilizados e fazem bastante sentido para nosso fluxo de trabalho. No geral, são coisas que nós já fazíamos antes, mas que agora podemos continuar fazendo com mais organização, segurança, e principalmente com mais confiança e conforto, o que nos trás mais prazer de desenvolver.
 #### Artifacts para versionamento de linguagens compiladas
-Um caso de uso que encontrei foi o uso de [[Estágio/Projetos/12 - Pesquisa GitLab/paginas auxiliares/O que é um artifact?\|Artifacts]] para o desenvolvimento com linguagens compiladas, no nosso caso, para o desenvolvimento mobile e embarcados.
+Um caso de uso que encontrei foi o uso de [[O que é um artifact?\|Artifacts]] para o desenvolvimento com linguagens compiladas, no nosso caso, para o desenvolvimento mobile e embarcados.
 - Com o uso dos , é possível versionar de maneira automática os APK s, vai aparecer uma lista com uma build de cada versão do aplicativo pronta para download, relacionando a versão ao commit. 
 - Além do Kotlin, também pode ser utilizado para salvar versões de códigos de Arduino / ESP32, que necessitam de serem compilados, poderíamos facilmente armazenar versões dos códigos já compilados, caso seja necessário um rollback.
 #### Registro de Containers buffando o deployment 
